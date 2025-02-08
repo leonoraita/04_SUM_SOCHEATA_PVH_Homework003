@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Balthazar&display=swap');
 *{
     margin: 0;
+    font-family: "Balthazar", serif;
 }
 /* header */
 header{
